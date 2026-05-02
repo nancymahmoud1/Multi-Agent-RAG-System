@@ -1,10 +1,10 @@
 # Multi-Agent Decision System
 
-A professional multi-agent AI application that analyzes real-life conflict scenarios using multiple reasoning frameworks, then synthesizes them into one balanced and actionable recommendation.
+A multi-agent AI application that analyzes real-life conflict scenarios using multiple reasoning frameworks, then synthesizes them into one balanced and actionable recommendation.
 
 The system is built with **Groq API**, **LLaMA 3.3 70B**, and **Gradio**. It demonstrates how multiple specialized AI agents can collaborate to provide deeper, less biased, and more practical decision support than a single-agent response.
 
----
+
 
 ## Overview
 
