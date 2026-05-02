@@ -370,30 +370,6 @@ Check that:
 
 ---
 
-## Limitations
-
-- The system depends on external API availability.
-- Outputs may vary between runs because LLM responses are probabilistic.
-- The agents provide decision-support guidance, not professional therapy, legal advice, or medical advice.
-- The quality of the output depends heavily on the clarity of the input scenario.
-- The book-inspired agents are simplified reasoning personas, not full replacements for reading the original books.
-
----
-
-## Future Improvements
-
-Possible future upgrades include:
-
-- Add more expert agents from additional books or domains.
-- Add memory across user sessions.
-- Store analysis history in a database.
-- Add scoring metrics for agent quality.
-- Add user feedback to improve recommendations.
-- Export results as PDF or Markdown.
-- Deploy the app permanently using Hugging Face Spaces, Streamlit Cloud, or another hosting platform.
-
----
-
 ## Educational Value
 
 This project is useful for learning:
