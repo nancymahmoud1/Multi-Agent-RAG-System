@@ -20,6 +20,14 @@ After the agents complete their independent analyses, a **Synthesizer Agent** co
 
 ---
 
+
+## Demo
+
+![Multi-Agent Decision System Demo](demo.gif)
+
+
+---
+
 ## Key Features
 
 - Multi-agent reasoning pipeline
@@ -111,11 +119,6 @@ The notebook also runs a single-agent baseline and compares it with the multi-ag
 ---
 
 ## Project Structure
-
-```text
-Multi_Agent.ipynb
-README.md
-```
 
 Main notebook sections:
 
@@ -368,34 +371,5 @@ Check that:
 - The model name is correct.
 - Internet access is available in the Colab runtime.
 
----
-
-## Educational Value
-
-This project is useful for learning:
-
-- Multi-agent AI architecture
-- Prompt engineering
-- LLM-based reasoning systems
-- AI decision-support design
-- Human-centered AI applications
-- Gradio-based interface development
-- Comparative evaluation between single-agent and multi-agent outputs
 
 ---
-
-## License
-
-This project is intended for educational and research purposes. You may modify and extend it according to your own academic or development needs.
-
----
-
-## Acknowledgements
-
-This project is inspired by reasoning frameworks from:
-
-- *The Art of Thinking Clearly* by Rolf Dobelli
-- *Crucial Conversations* by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
-- *Man's Search for Meaning* by Viktor Frankl
-
-The implementation uses Groq API, LLaMA 3.3 70B, and Gradio.
