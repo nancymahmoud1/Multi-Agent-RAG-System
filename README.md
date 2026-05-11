@@ -23,7 +23,9 @@ After the agents complete their independent analyses, a **Synthesizer Agent** co
 
 ## Demo
 
-![Multi-Agent Decision System Demo](demo.gif)
+
+https://github.com/user-attachments/assets/23585eb3-4665-4f87-8b48-9ee7def5e59e
+
 
 
 ---
